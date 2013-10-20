@@ -3,7 +3,6 @@ package jp.dmtc.mytai;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.os.Bundle;
-import com.dmtc.mytai.R;
 import jp.dmtc.mytai.util.App;
 import jp.dmtc.mytai.util.DefaultTabListener;
 
