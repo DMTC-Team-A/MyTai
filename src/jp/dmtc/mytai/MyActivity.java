@@ -1,10 +1,11 @@
-package com.example.HelloIntelliJ;
+package jp.dmtc.mytai;
 
 import android.app.ActionBar;
 import android.app.Activity;
 import android.os.Bundle;
-import jp.spinylobster.util.App;
-import jp.spinylobster.util.DefaultTabListener;
+import com.dmtc.mytai.R;
+import jp.dmtc.mytai.util.App;
+import jp.dmtc.mytai.util.DefaultTabListener;
 
 public class MyActivity extends Activity {
     /**

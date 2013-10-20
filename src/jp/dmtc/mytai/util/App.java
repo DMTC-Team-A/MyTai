@@ -1,4 +1,4 @@
-package jp.spinylobster.util;
+package jp.dmtc.mytai.util;
 
 import android.app.Activity;
 import android.view.View;

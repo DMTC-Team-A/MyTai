@@ -1,4 +1,4 @@
-package jp.spinylobster.util;
+package jp.dmtc.mytai.util;
 
 import android.R;
 import android.app.ActionBar;
@@ -63,6 +63,5 @@ public class DefaultTabListener<T extends Fragment> implements ActionBar.TabList
 
     @Override
     public void onTabReselected(ActionBar.Tab tab, FragmentTransaction fragmentTransaction) {
-        //To change body of implemented methods use File | Settings | File Templates.
     }
 }
